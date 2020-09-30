@@ -20,6 +20,8 @@
    - No more features need
  - Documentation
    - Do it
+ - Trello
+   - Are we using it?
  - Rubric - Do we have everything ready to turn in?
    - Backlog/Scrum notes
    - Demo - Rubric says everyone needs to speak, ask for clarification?
